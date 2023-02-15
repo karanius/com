@@ -1,0 +1,15 @@
+.icon {
+  margin-right: var(--spacing-2);
+}
+
+.field {
+  margin-bottom: var(--spacing-3);
+}
+
+.actions {
+  padding-top: var(--spacing-2);
+}
+
+.stepBar {
+  padding: var(--mini-unit) 0 calc(8 * var(--mini-unit));
+}

@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<Link
+  activePropName="active"
+  as={[Function]}
+  to="/moderate"
+>
+  link
+</Link>
+`;
